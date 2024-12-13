@@ -1,0 +1,58 @@
+/* Imposta uno sfondo elegante */
+body {
+    background-color: #e9ecef;
+    font-family: Arial, sans-serif;
+}
+
+/* Container centrale con ombra */
+.container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Titolo con colore e font migliorati */
+h1 {
+    color: #343a40;
+    font-weight: 700;
+}
+
+/* Impostazioni per le card */
+.card {
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+    margin: 10px;
+}
+
+/* Effetto al passaggio del mouse sulle card */
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Stile per l'immagine della bandiera */
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 3px solid #343a40;
+}
+
+/* Stile per il pulsante */
+.btn {
+    color: #fff;
+    background-color: #343a40;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #495057;
+}
