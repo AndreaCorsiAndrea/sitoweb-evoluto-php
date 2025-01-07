@@ -12,7 +12,7 @@ document.getElementById('formRegistrazione')?.addEventListener('submit', functio
     }
 
     // Reindirizza alla pagina delle bandiere
-    window.location.href = 'home.html';
+    window.location.href = 'home.php';
 });
 
 // Funzione per controllare se la password è valida
@@ -48,7 +48,7 @@ function caricaBandiere() {
         const col = document.createElement('div'); // Crea un nuovo elemento div
         col.className = 'col-md-3 text-center'; // Aggiungi classi per lo stile
         col.innerHTML = `
-            <a href="details.html?country=${bandiera.paese}">
+            <a href="details.php?country=${bandiera.paese}">
                 <img src="${bandiera.img}" class="img-fluid" alt="${bandiera.paese}" style="width: 150px;">
             </a>
         `;

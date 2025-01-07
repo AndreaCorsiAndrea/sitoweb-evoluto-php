@@ -11,7 +11,7 @@
     <div class="container mt-5">
         <h1 class="text-center">Seleziona un Paese</h1>
         <div id="bandiere" class="row mt-4"></div>
-        <a href="index.html" class="btn btn-secondary mt-4">Torna indietro</a>
+        <a href="index.php" class="btn btn-secondary mt-4">Torna indietro</a>
     </div>
     <script src="app.js"></script>
 </body>

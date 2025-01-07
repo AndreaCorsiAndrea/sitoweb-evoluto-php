@@ -2,41 +2,41 @@
     "italia": [
       {
         "name": "Colosseo",
-        "img": "https://www.bing.com/ck/a?!&&p=431e888167add734a907f4959f600f10d7eb8a2e7089e19a78079406e8ee9b4aJmltdHM9MTczNDA0ODAwMA&ptn=3&ver=2&hsh=4&fclid=2a536ae3-974a-6fae-1fd9-7fe096d86e9d&u=a1L2ltYWdlcy9zZWFyY2g_cT1jb2xvc3NlbyUyMGZvdG8lMjBncmF0aXMmRk9STT1JUUZSQkEmaWQ9MzAwQTFBNzI0M0ZFNjg0ODVENjE2NkFBMUNGODQzRDMxNjYxNUMxRA&ntb=1"
+        "img": "https://wallpaperaccess.com/full/3646673.jpg"
       },
       {
         "name": "Torre di Pisa",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Torre_di_Pisa%2C_Italia.jpg"
+        "img": "https://s3.amazonaws.com/tourlandish/mircobrands-content/image/f3c0f450ec1333211a8e7e67c73954c2-pisa-1056568_1920.jpg"
       }
     ],
     "francia": [
       {
         "name": "Torre Eiffel",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Torre_Eiffel%2C_Parigi.jpg"
+        "img": "https://res.cloudinary.com/hello-tickets/image/upload/ar_1:1,c_fill,f_auto,q_auto,w_800/v1645844269/gd99ktjpmrtkwwlyn8hx.jpg"
       },
       {
         "name": "Museo del Louvre",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Louvre_Museum%2C_Parigi.jpg"
+        "img": "https://www.parigi.it/images/medium/p175_3-louvreatdusk-c5008.jpg"
       }
     ],
     "spagna": [
       {
         "name": "Sagrada Familia",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sagrada_Familia_%28cropped%29.jpg"
+        "img": "https://as2.ftcdn.net/v2/jpg/01/41/32/23/1000_F_141322312_k0KBHFfcs34JepipgmqmUPZjesGtIqvt.jpg"
       },
       {
         "name": "Alhambra",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Alhambra_%28cropped%29.jpg"
+        "img": "https://s7g10.scene7.com/is/image/barcelo/history-of-the-alhambra_alhambra-background?&&fmt=webp-alpha&qlt=75&wid=1300&fit=crop,1"
       }
     ],
     "peru": [
       {
         "name": "Machu Picchu",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Machu_Picchu%2C_Peru.jpg"
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
       },
       {
         "name": "Nazca Lines",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Nazca_Lines_%28cropped%29.jpg"
+        "img": "https://cdn.britannica.com/40/153440-050-700F6869/view-Nazca-Lines-Peru.jpg"
       }
     ]
   }

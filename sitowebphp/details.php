@@ -11,7 +11,7 @@
     <div class="container mt-5">
         <h1 class="text-center">Monumenti</h1>
         <div id="monumenti" class="row mt-4"></div>
-        <a href="home.html" class="btn btn-secondary mt-4">Torna indietro</a>
+        <a href="home.php" class="btn btn-secondary mt-4">Torna indietro</a>
     </div>
     <script src="app.js"></script>
 </body>
