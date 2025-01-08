@@ -83,7 +83,7 @@ function mostraMonumenti(monumenti) {
 
     monumenti.forEach(monumento => {
         const col = document.createElement('div'); // Crea un nuovo elemento div
-        col.className = 'col-md-6 mb-4'; // Aggiungi classi per lo stile
+        col.className = 'col-12 col-sm-6 col-md-4 col-lg-3 mb-4'; // Colonne dinamiche per vari schermi
         col.innerHTML = `
             <div class="card">
                 <img src="${monumento.img}" class="card-img-top" alt="${monumento.name}">
@@ -95,3 +95,4 @@ function mostraMonumenti(monumenti) {
         container.appendChild(col); // Aggiungi il div al contenitore
     });
 }
+

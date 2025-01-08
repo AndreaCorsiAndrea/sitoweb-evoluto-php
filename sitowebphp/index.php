@@ -11,7 +11,7 @@
 <body>
     <div class="container mt-5">
         <h1 class="text-center">Registrazione</h1>
-        <form id="formRegistrazione">
+        <form id="formRegistrazione" method ="POST" action=""> 
             <div class="form-group">
                 <label for="username">Username</label>
                 <input type="text" class="form-control" id="username" required>
