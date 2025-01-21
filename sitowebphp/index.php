@@ -1,3 +1,9 @@
+<?php
+if($_SERVER['REQUEST_METHOD']=='POST'){
+    $username = htmlspecialchars(string: $_POST['email']);
+    $password = htmlspecialchars(string: $_POST['password']);
+}
+?>
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -11,7 +17,7 @@
 <body>
     <div class="container mt-5">
         <h1 class="text-center">Registrazione</h1>
-        <form id="formRegistrazione">
+        <form id="formRegistrazione" method ="POST" action=""> 
             <div class="form-group">
                 <label for="username">Username</label>
                 <input type="text" class="form-control" id="username" required>
