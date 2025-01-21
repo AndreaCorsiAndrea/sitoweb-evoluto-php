@@ -1,3 +1,9 @@
+<?php
+if($_SERVER['REQUEST_METHOD']=='POST'){
+    $username = htmlspecialchars(string: $_POST['email']);
+    $password = htmlspecialchars(string: $_POST['password']);
+}
+?>
 <!DOCTYPE html>
 <html lang="it">
 <head>

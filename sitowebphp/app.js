@@ -1,3 +1,4 @@
+//method fa riferimento al form dicendogli che la chiamata è di tipo post
 // Funzione per gestire la registrazione
 document.getElementById('formRegistrazione')?.addEventListener('submit', function (e) {
     e.preventDefault(); // Ferma l'invio del modulo
