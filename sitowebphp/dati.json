@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "italia": [
     {
       "name": "Colosseo",
@@ -16,52 +15,6 @@
     {
     "name": "Reggia Di Caserta",
       "img": "https://lh6.googleusercontent.com/proxy/RXfj4LDtn7V0NEzjtbW-ZTgrOZcy6fDTIPrjk_-V-dnauGAW09EVWOgu4UUDI2HnlKF9rb8p1en4dK4casMO_PJUbdWuLMgJ8lMhgiRmTEnnTJKvMevICILm"
-=======
-    "italia": [
-      {
-        "name": "Colosseo",
-        "img": "https://wallpaperaccess.com/full/3646673.jpg"
-      },
-      {
-        "name": "Torre di Pisa",
-        "img": "https://s3.amazonaws.com/tourlandish/mircobrands-content/image/f3c0f450ec1333211a8e7e67c73954c2-pisa-1056568_1920.jpg"
-      },
-      {
-        "name": "Duomo Di Milano",
-        "img": "https://pisa1940.com/cdn/shop/articles/duomo_milano_pisa.png?v=1709552807"
-      }
-    ],
-    "francia": [
-      {
-        "name": "Torre Eiffel",
-        "img": "https://res.cloudinary.com/hello-tickets/image/upload/ar_1:1,c_fill,f_auto,q_auto,w_800/v1645844269/gd99ktjpmrtkwwlyn8hx.jpg"
-      },
-      {
-        "name": "Museo del Louvre",
-        "img": "https://www.parigi.it/images/medium/p175_3-louvreatdusk-c5008.jpg"
-      }
-    ],
-    "spagna": [
-      {
-        "name": "Sagrada Familia",
-        "img": "https://as2.ftcdn.net/v2/jpg/01/41/32/23/1000_F_141322312_k0KBHFfcs34JepipgmqmUPZjesGtIqvt.jpg"
-      },
-      {
-        "name": "Alhambra",
-        "img": "https://s7g10.scene7.com/is/image/barcelo/history-of-the-alhambra_alhambra-background?&&fmt=webp-alpha&qlt=75&wid=1300&fit=crop,1"
-      }
-    ],
-    "peru": [
-      {
-        "name": "Machu Picchu",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
-      },
-      {
-        "name": "Nazca Lines",
-        "img": "https://cdn.britannica.com/40/153440-050-700F6869/view-Nazca-Lines-Peru.jpg"
-      }
-    ]
->>>>>>> 380a41857d275247c31500162f7258221c5187c2
   }
   ],
   "francia": [
